@@ -23,4 +23,8 @@
     // dev1
 }
 
+- (void)stashk {
+    //01
+}
+
 @end
